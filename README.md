@@ -19,3 +19,14 @@ ToDo list is a simple web application to save Your daily tasks in order not to m
 * Bootsrape
 * JavaScript/jQuery 3.1.1
 
+## Usage:
+
+- Download or clone the source files to a local folder.
+- Open index.html with your live server.
+- Enjoy!!!
+
+### Note:
+This app is for educational purposes only and should not be used in production or commercial environments.
+
+
+
