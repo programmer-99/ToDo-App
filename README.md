@@ -17,8 +17,9 @@ ToDo list is a simple web application to save Your daily tasks in order not to m
 * HTML
 * CSS
 * Bootsrape
-* JavaScript/jQuery 3.1.1
-* 
+* JavaScript
+* JQuery
+
  ## Requirements:
  
 * Local live server environment
